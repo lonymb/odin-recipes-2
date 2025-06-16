@@ -1,6 +1,6 @@
 # Odin Recipes
 
-<h1>Project Overview:</h1>
+<h3>Project Overview:</h3>
 
 <ul>
     <li>For this project I am going to build a basic recipe website.</li>
