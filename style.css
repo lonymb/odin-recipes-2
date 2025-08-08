@@ -1,0 +1,64 @@
+body {
+    background-color: bisque;
+}
+
+div {
+    margin: 20px;
+    text-align: center;
+}
+
+
+.title {
+    font-family: Didot, Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 1px 16px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+
+.recipe-one, .recipe-two, .recipe-three {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 700;
+    border: 2px dotted black;
+    background-color: whitesmoke;
+    margin: 8px 15px;
+    padding: 40px 20px 30px 20px;
+}
+
+img {
+    margin: 10px;
+}
+
+button {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 16px auto;
+    padding: 10px 15px;
+    text-align: center;
+    background-color: #e6b58f;
+    color: #333;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #333;
+    text-decoration: none;
+}
+
+.trademark {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 70px;
+    padding: 15px;
+}
+
+.whisk {
+    display: inline-block;
+    vertical-align: middle;
+}
