@@ -1,0 +1,85 @@
+body {
+    background-color: bisque;
+}
+
+#homepage {
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Didot, Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 1px 16px;
+    margin: 20px;
+}
+
+.whisk {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-container {
+    font-size: 0;
+}
+
+.card-one {
+    background-color: white;
+    border: 3px dotted black;
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    padding: 116px 60px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+.card-two {
+    background-color: white;
+    border: 3px dotted black;
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    padding: 50px 60px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+#title, .cheesecake-image {
+    font-family: Didot, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #734103;
+    text-align: center;
+}
+
+.heading {
+    font-size: 18px;
+    font-family: Didot, Arial, Helvetica, sans-serif;
+    padding-left: 8px;
+    color: #734103;
+}
+
+.description {
+    font-size: 18px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.list {
+    font-size: 17px;
+}
+
+ul li {
+    padding-bottom: 1px;
+}
+
+a {
+    color: black;
+}
+
+.trademark {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 60px;
+    padding: 15px;
+}
